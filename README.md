@@ -77,7 +77,8 @@ Prediction
 Customer-Churn-Prediction/
 │
 ├── Customer__Churn__Prediction.ipynb
-└── README.md
+├── README.md
+└── requirements.txt
 
 Author : mariyam-code07
 
